@@ -103,8 +103,7 @@ class ICS
         'url',
         // Cambio 2
         'alarm',
-        'organizer',
-        'attendee'
+        'organizer'
     );
 
     public function __construct($props)
